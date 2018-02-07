@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.36",
+    "bcrypt": "^1.0.3",
+    "meteor-node-stubs": "^0.3.2",
+    "moment": "^2.20.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-mounter": "^1.2.0",
+    "simpl-schema": "^0.4.2",
+    "uniforms": "^1.22.1",
+    "uniforms-unstyled": "^1.22.1"
+  }
+}
